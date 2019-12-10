@@ -5,12 +5,11 @@ E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\Enti
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\bin\Debug\EntityFramework.SqlServer.dll
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\bin\Debug\EntityFramework.xml
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\bin\Debug\EntityFramework.SqlServer.xml
-E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.csprojAssemblyReference.cache
+E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.FormMain.resources
+E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.Migrations.Initialmigration.resources
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.Properties.Resources.resources
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.csproj.GenerateResource.cache
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.csproj.CoreCompileInputs.cache
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.csproj.CopyComplete
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.exe
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.pdb
-E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.Migrations.Initialmigration.resources
-E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.FormMain.resources

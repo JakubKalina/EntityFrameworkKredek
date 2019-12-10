@@ -11,7 +11,7 @@ namespace EntityFrameworkLab4.Repositories
         List<T> GetAll();
         IQueryable<T> Get();
         T GetById(int id);
-        void Delete(T entity);
+        void DeleteById(int id);
         void Update(T entity);
         void Create(T entity);
         void Save();

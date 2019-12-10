@@ -69,8 +69,10 @@ namespace EntityFrameworkLab4
             var selectedJumperIndex = Int32.Parse(dataGridViewJumpers.SelectedRows[0].Cells[0].Value.ToString());
             var deleteJumper = _jumpers.GetById(selectedJumperIndex);
 
-            _jumpers.Delete(deleteJumper);
+            _jumpers.DeleteById(deleteJumper.Id);
             _jumpers.Save();
+
+            LoadJumpers();
         }
 
         /// <summary>
@@ -97,8 +99,10 @@ namespace EntityFrameworkLab4
             var selectedCountryIndex = Int32.Parse(dataGridViewCountries.SelectedRows[0].Cells[0].Value.ToString());
             var deleteCountry = _countries.GetById(selectedCountryIndex);
 
-            _countries.Delete(deleteCountry);
+            _countries.DeleteById(deleteCountry.Id);
             _countries.Save();
+
+            LoadCountries();
         }
 
         /// <summary>

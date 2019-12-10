@@ -22,9 +22,9 @@ namespace EntityFrameworkLab4.Repositories
             _context.Set<T>().Add(entity);
         }
 
-        public void Delete(T entity)
+        public void DeleteById(int id)
         {
-            T entities = _context.Set<T>().Find(entity);
+            T entities = _context.Set<T>().Find(id);
             _context.Set<T>().Remove(entities);
         }
 
