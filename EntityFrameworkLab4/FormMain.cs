@@ -84,9 +84,10 @@ namespace EntityFrameworkLab4
         {
             var selectedJumperIndex = Int32.Parse(dataGridViewJumpers.SelectedRows[0].Cells[0].Value.ToString());
 
-            var deleteJumper = _jumpers.GetById(selectedJumperIndex);
+            var showJumper = _jumpers.GetById(selectedJumperIndex);
+            var country = _countries.GetById(showJumper.CountryId);
 
-            MessageBox.Show("Id skoczka to: " + deleteJumper.Id.ToString());
+            MessageBox.Show("Kraj skoczka to: " + country.Name);
         }
 
         /// <summary>

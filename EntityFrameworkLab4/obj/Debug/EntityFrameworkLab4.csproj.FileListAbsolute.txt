@@ -13,3 +13,4 @@ E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\Enti
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.csproj.CopyComplete
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.exe
 E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.pdb
+E:\Jakub\Documents\Programowanie\Kredek\KredekWykładEF\EntityFrameworkLab4\EntityFrameworkLab4\obj\Debug\EntityFrameworkLab4.csprojAssemblyReference.cache

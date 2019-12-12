@@ -62,10 +62,10 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label5 = new System.Windows.Forms.Label();
+            this.textBoxUpdateJumperId = new System.Windows.Forms.TextBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.textBoxUpdateJumperId = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewJumpers)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCountries)).BeginInit();
             this.panel1.SuspendLayout();
@@ -253,17 +253,17 @@
             this.buttonJumperShow.Name = "buttonJumperShow";
             this.buttonJumperShow.Size = new System.Drawing.Size(164, 29);
             this.buttonJumperShow.TabIndex = 20;
-            this.buttonJumperShow.Text = "Wyświetl informacje";
+            this.buttonJumperShow.Text = "Wyświetl Kraj";
             this.buttonJumperShow.UseVisualStyleBackColor = true;
             this.buttonJumperShow.Click += new System.EventHandler(this.buttonJumperShow_Click);
             // 
             // buttonCountryShow
             // 
-            this.buttonCountryShow.Location = new System.Drawing.Point(819, 584);
+            this.buttonCountryShow.Location = new System.Drawing.Point(792, 584);
             this.buttonCountryShow.Name = "buttonCountryShow";
-            this.buttonCountryShow.Size = new System.Drawing.Size(164, 29);
+            this.buttonCountryShow.Size = new System.Drawing.Size(191, 29);
             this.buttonCountryShow.TabIndex = 23;
-            this.buttonCountryShow.Text = "Wyświetl informacje";
+            this.buttonCountryShow.Text = "Wyświetl ilość skoczków";
             this.buttonCountryShow.UseVisualStyleBackColor = true;
             this.buttonCountryShow.Click += new System.EventHandler(this.buttonCountryShow_Click);
             // 
@@ -271,7 +271,7 @@
             // 
             this.buttonCountryUpdate.Location = new System.Drawing.Point(666, 584);
             this.buttonCountryUpdate.Name = "buttonCountryUpdate";
-            this.buttonCountryUpdate.Size = new System.Drawing.Size(147, 29);
+            this.buttonCountryUpdate.Size = new System.Drawing.Size(120, 29);
             this.buttonCountryUpdate.TabIndex = 22;
             this.buttonCountryUpdate.Text = "Edytuj kraj";
             this.buttonCountryUpdate.UseVisualStyleBackColor = true;
@@ -381,6 +381,22 @@
             this.panel1.Size = new System.Drawing.Size(402, 259);
             this.panel1.TabIndex = 33;
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(145, 6);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(19, 17);
+            this.label5.TabIndex = 34;
+            this.label5.Text = "Id";
+            // 
+            // textBoxUpdateJumperId
+            // 
+            this.textBoxUpdateJumperId.Location = new System.Drawing.Point(197, 3);
+            this.textBoxUpdateJumperId.Name = "textBoxUpdateJumperId";
+            this.textBoxUpdateJumperId.Size = new System.Drawing.Size(166, 22);
+            this.textBoxUpdateJumperId.TabIndex = 33;
+            // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.GhostWhite;
@@ -412,22 +428,6 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(373, 210);
             this.panel3.TabIndex = 35;
-            // 
-            // textBoxUpdateJumperId
-            // 
-            this.textBoxUpdateJumperId.Location = new System.Drawing.Point(197, 3);
-            this.textBoxUpdateJumperId.Name = "textBoxUpdateJumperId";
-            this.textBoxUpdateJumperId.Size = new System.Drawing.Size(166, 22);
-            this.textBoxUpdateJumperId.TabIndex = 33;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(145, 6);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(19, 17);
-            this.label5.TabIndex = 34;
-            this.label5.Text = "Id";
             // 
             // FormMain
             // 
